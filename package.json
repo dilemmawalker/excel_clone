@@ -11,7 +11,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^9.1.0"
+    "electron": "^9.1.0",
+    "gh-pages": "^3.1.0"
   },
   "dependencies": {
     "ejs-electron": "^2.0.3",
